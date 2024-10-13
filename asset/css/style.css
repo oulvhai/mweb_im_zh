@@ -121,13 +121,15 @@ vertical-align: middle; line-height: 19px; font-size: 14px; font-family: 'Helvet
 #logo-container{ text-align: right; }
 
 
-@media (min-width: 1200px) {
+@media (min-width: 992px) {
   .container {
     width: 970px; 
   }
 }
 
-@media (max-width: 767px) {
+
+
+@media (max-width: 991px) {
   .banner-head{ font-size: 1.4em; }
   .product-name h3{font-size: 1.0em;}
   .mweb-logo{ width: 90px;  }
@@ -137,6 +139,9 @@ vertical-align: middle; line-height: 19px; font-size: 14px; font-family: 'Helvet
   #app_info{ padding-top: 4em; }
   .app_download{ padding-top: 1.5em; }
   .app_download>div{padding-left: 0;}
+
+    ul.screenshots li{ width: 100%;}
+  ul.screenshots li img{ width: 100%; max-width: 720px; }
 
  
   a.btn-video{display: inline-block;padding-right: 4px; padding-bottom: 4px; }
