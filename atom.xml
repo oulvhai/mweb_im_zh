@@ -4,7 +4,7 @@
   <title><![CDATA[MWeb]]></title>
   <link href="https://zh.mweb.im/atom.xml" rel="self"/>
   <link href="https://zh.mweb.im/"/>
-  <updated>2024-11-21T10:26:34+08:00</updated>
+  <updated>2024-12-21T00:04:03+08:00</updated>
   <id>https://zh.mweb.im/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -118,7 +118,7 @@
 <p>在 macOS 版本的 MWeb，可以使用菜单： <code>文件 - 恢复为 - 浏览所有版本</code>，对于 iOS 版，可以点击 “...” 按钮，选择 “文档历史版本” 来恢复。要注意的是，iOS 的文档历史版本只针对文档库中 iCloud 同步的文档。 建议使用时避免多设备编辑同一文档，如果要编辑，请确认文档为最新的状态。<br />
 因为在同步过程都是无状态的，比如说当前设备网络不好，网络传输出错，CloudKit 错误等等都会造成当前的设备的文档的最新版本无法及时同步到 CloudKit，这时如果另一设备上传了文档的新版本，然后当前设备变得正常，就会收到另一设备的更新推送，这时就会更新当前设备的文档。</p>
 <h2><a id="mweb-3-x%E5%A6%82%E4%BD%95%E5%8D%87%E7%BA%A7%E5%88%B0-mweb-4-x%EF%BC%9F" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>MWeb 3.x 如何升级到 MWeb 4.x？</h2>
-<p><strong>注意：</strong> MWeb 3.x 的用户都可以免费升级到 MWeb 4.x，升级办法是：下载 MWeb 4.x，在软件弹出的界面中会有“激活码升级”按钮，点击这个按钮即可把 3.x 的激活码兑换为 4.x 的激活码。</p>
+<p><strong>注意：</strong> MWeb 3.x 的用户都可以免费升级到 MWeb 4.x，升级办法是：<a href="https://cdn.mweb.im/MWebPro465.dmg">下载 4.6.5</a> 版本，在软件弹出的界面中会有“激活码升级”按钮，点击这个按钮即可把 3.x 的激活码兑换为 4.x 的激活码。</p>
 <p><strong>Mac App Store 用户：</strong> 请直接从 Mac App Store 更新即可。</p>
 <p><strong>提示：</strong> MWeb 2.x 升级到 4.x 需要重新付费。如果要下载 3.x 版请 <a href="https://cdn.mwebapp.cn/MWeb344.dmg">点此下载 MWeb 3.x</a> 。如果要下载 2.x 版本，请到<a href="download.html">下载 MWeb</a> 页面的最底部下载。</p>
 <h2><a id="%E4%BB%8Emweb-3%E5%8D%87%E7%BA%A7%E5%90%8E%EF%BC%8C%E5%A6%82%E4%BD%95%E6%89%BE%E5%88%B0%E5%8E%9F%E6%9D%A5%E7%9A%84%E9%A2%84%E8%A7%88%E6%A0%B7%E5%BC%8F%EF%BC%9F-mweb-4%E8%BF%98%E6%94%AF%E6%8C%81%E8%87%AA%E5%AE%9A%E4%B9%89%E9%A2%84%E8%A7%88%E6%A0%B7%E5%BC%8F%E5%90%97%EF%BC%9F" class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>从 MWeb 3 升级后，如何找到原来的预览样式？MWeb 4 还支持自定义预览样式吗？</h2>
